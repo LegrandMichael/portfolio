@@ -1,0 +1,38 @@
+/*
+Theme Name: Presto 
+Description: Presto is a child theme of most famous WordPress theme Enigma. It is mordern and easy to use. The theme is full of the latest features. Presto is the perfect theme for the professionals, bloggers, and creative personnel’s website, as it provides a clean and flexible appearance, an elegant portfolio, and a catchy online shop. The theme is translation ready, fully SEO optimized, fast loading and is fully compatible with woo commerce and all other major WordPress page builder plugins like Elementor, Visual Composer , SiteOrigin, Beaver Builder, Divi ,Page Builder Sandwich.
+Author: weblizar
+Author URI: http://www.weblizar.com
+Template: enigma
+Version: 0.3
+Tags: rtl-language-support,two-columns, three-columns, custom-menu, right-sidebar, custom-background, featured-image-header, sticky-post, theme-options, threaded-comments, featured-images, flexible-header, translation-ready , blog  , custom-logo , E-Commerce , footer-widgets , portfolio 
+Text Domain: presto
+*/
+
+body.boxed {
+    width: 1170px;
+    margin: 0 auto;
+    border: 1px solid #ccc;
+    box-shadow: 0 0 10px 0 rgba(48, 48, 48, 0.5);
+	    background-color: #a43ca71f;
+}
+.logo h1{
+	color:#fff;
+}
+.wrapper {
+    background: #ffffff;
+}
+@media (min-width: 1200px){
+.boxed #enigma_nav_top.affix {
+    width: 1170px;
+}
+}
+.reply a {
+    background-color: #141515;
+    color: #fff !important;
+    padding: 10px 10px 10px 10px;
+    font-size: 12px;
+}
+h4.enigma_comment_detail_title{
+ color: #31a3dd !important;	
+}
