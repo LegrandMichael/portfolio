@@ -1,0 +1,4 @@
+SEOS Changelog
+
+= 1.1.5 - April 19 2018 =
+* Initial release
